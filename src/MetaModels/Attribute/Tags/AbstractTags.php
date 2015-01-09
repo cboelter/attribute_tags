@@ -174,6 +174,7 @@ abstract class AbstractTags extends BaseComplex
                 'mandatory',
                 'filterable',
                 'searchable',
+                'submitOnChange'
             )
         );
     }
